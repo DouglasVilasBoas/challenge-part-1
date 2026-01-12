@@ -3,6 +3,8 @@
 ## Descrição
 
 Projeto de estudos onde eu precisava linkar o cliente com o tecnico que estivesse ativo, simulando um chamado de serviço.
+</br>
+Os endpoints de assinatura e tecnico vieram do projeto [challenge-apiRest](https://github.com/DouglasVilasBoas/challenge-apiRest/tree/master)
 
 ## Tecnologias
 
